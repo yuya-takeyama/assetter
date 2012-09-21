@@ -1,0 +1,8 @@
+*.swp
+/.phync
+/composer.phar
+/venom.php
+/.bundle
+/.venom
+/vendor
+!/vendor/pear
